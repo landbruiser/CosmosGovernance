@@ -1,0 +1,1 @@
+# CosmosGovernance will provide an overview of how governance works in the cosmos ecosystem. Better known as the internet of blockchains, Cosmos is an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.  
